@@ -1,6 +1,4 @@
 # Benchmark-103
-Ingeniería Servidores  
-=================================
 Práctica sobre Benchmark en Ingeniería de Servidores(IS)  
 
 Licencia
